@@ -17,6 +17,7 @@ class Song
     @@count
   end
   
-  def 
+  def genre
+    @genre.uniq
   end
 end
