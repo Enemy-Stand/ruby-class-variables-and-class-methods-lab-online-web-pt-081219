@@ -18,6 +18,6 @@ class Song
   end
   
   def self_artist
-    @artist
+    @@artist << artist
   end
 end
