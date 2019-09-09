@@ -14,5 +14,5 @@ class Song
   end
   
   def self_count
-    
+    @@c
 end
