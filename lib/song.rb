@@ -19,7 +19,7 @@ class Song
   
   
   
-  def artists
+  def self.artists
     @@artist.uniq
   end
 end
