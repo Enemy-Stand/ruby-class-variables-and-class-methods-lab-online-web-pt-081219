@@ -27,5 +27,5 @@ class Song
   
   def self.artist_count
     artist_count = {}
-    @@artist.
+    @@artists.each do 
 end
